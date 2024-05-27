@@ -1,4 +1,6 @@
-# SEO Book Pro WooCommerce Custom FAQ's Product Tab
+# SEO Book Pro **WooCommerce** Custom FAQ's Product Tab
+
+> Welcome to the SEO Book Pro WooCommerce Custom FAQ's Product Tab plugin! This plugin enhances your WooCommerce product pages by adding a custom FAQ tab, providing structured FAQ information with FAQPage Schema Markup. This improves SEO, user experience, and customer satisfaction by addressing common questions directly on the product page.
 
 ## Overview of SEO Book Pro WooCommerce Custom FAQ's Product Tab WordPress Plugin
 
@@ -45,7 +47,8 @@ Answer: You can download the plugin from our GitHub project here or from our off
 ### The plugin hooks into the default WooCommerce product tab section, adding a new tab labeled "Product FAQ's". 
 
 This tab is prominently displayed alongside other product information tabs, ensuring high visibility and easy access for customers.
-Display Format
+
+## Display Format
 
 FAQs are displayed using the HTML5 ```details``` and ```summary``` elements, creating a clean and organized look. This format allows users to expand and collapse each FAQ, saving space and enhancing readability.
 
