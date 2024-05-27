@@ -47,16 +47,16 @@ Answer: You can download the plugin from our GitHub project here or from our off
 This tab is prominently displayed alongside other product information tabs, ensuring high visibility and easy access for customers.
 Display Format
 
-FAQs are displayed using the HTML5 <details> and <summary> elements, creating a clean and organized look. This format allows users to expand and collapse each FAQ, saving space and enhancing readability.
+FAQs are displayed using the HTML5 ```details``` and ```summary``` elements, creating a clean and organized look. This format allows users to expand and collapse each FAQ, saving space and enhancing readability.
 
 ### Example how the code is placed in to the new tab
-```
+
+ ```
 <details>
   <summary>What is the return policy?</summary>
   <p>You can return the product within 30 days of purchase. Please refer to our return policy page for more details.</p>
 </details>
 ```
-
 ## Pros and Cons of using the SEO Book Pro WordPress WooCommerce Custom FAQ's Product Tabs Plugin
 
 ### Pros of using the SEO Book Pro WordPress WooCommerce Custom FAQ's Product Tabs Plugin
@@ -79,8 +79,9 @@ FAQs are displayed using the HTML5 <details> and <summary> elements, creating a 
 
 ### You can download the SEO Book Pro WooCommerce Custom FAQ's Product Tab plugin from the following locations:
 
-* GitHub: SEO Book Pro GitHub Project(https://github.com/seobookpro/seobookpro-woo-faqs-cpt/)
-* Official Website: SEO Book Pro(https://seobookpro.com/)
+* SEO Book Pro GitHub Official Profile: [SEO Book Pro GitHub Project](https://github.com/seobookpro/seobookpro-woo-faqs-cpt/)
+* SEO Book Pro Official Website: [SEO Book Pro](https://seobookpro.com/)
+* SEO Book Pro Google Developer's Profile: [SEO Book Pro](https://g.dev/seobookpro)
 
 ## Final Toughts for our New Beta v.0.0.4 r-c SEO Book Pro WordPress WooCommerce Custom FAQ's Product Tabs Plugin
 
