@@ -61,19 +61,19 @@ FAQs are displayed using the HTML5 <details> and <summary> elements, creating a 
 
 ### Pros of using the SEO Book Pro WordPress WooCommerce Custom FAQ's Product Tabs Plugin
 
--- SEO Boost: Improved visibility in search engine results due to structured data.
--- User-Friendly: Easy to manage and update FAQs from the product edit screen.
--- Efficient Space Usage: Collapsible FAQ sections keep the product page organized.
--- Enhanced Customer Support: Provides instant answers to common questions.
--- Increased Sales: Reduces customer hesitation by addressing queries directly on the product page.
+- **SEO Boost**: Improved visibility in search engine results due to structured data.
+- **User-Friendly**: Easy to manage and update FAQs from the product edit screen.
+- **Efficient Space Usage**: Collapsible FAQ sections keep the product page organized.
+- **Enhanced Customer Support**: Provides instant answers to common questions.
+- **Increased Sales**: Reduces customer hesitation by addressing queries directly on the product page.
 
 ### Cons of using the SEO Book Pro WordPress WooCommerce Custom FAQ's Product Tabs Plugin
 
--- Initial Setup: Requires some initial setup to customize FAQs for each product.
--- Limited to FAQs: Focuses on FAQs and does not include other types of content enhancements.
--- Dependency on WooCommerce: Requires WooCommerce to function.
--- Manual Updates: FAQs need to be manually updated for each product.
--- Basic Styling: May require additional CSS customization for seamless integration with your theme.
+- **Initial Setup**: Requires some initial setup to customize FAQs for each product.
+- **Limited to FAQs**: Focuses on FAQs and does not include other types of content enhancements.
+- **Dependency on WooCommerce**: Requires WooCommerce to function.
+- **Manual Updates**: FAQs need to be manually updated for each product.
+- **Basic Styling**: May require additional CSS customization for seamless integration with your theme.
 
 ## Download and Installation of the SEO Book Pro WordPress WooCommerce Custom FAQ's Product Tabs Plugin
 
